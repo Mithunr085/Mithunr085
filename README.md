@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **1rn20cs085.mithunr@gmail.com**
 
-- ⚡ Fun fact **Funny**
+- ⚡ **Daily One C++ Coding Problem will be updated - STAY TUNED...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
