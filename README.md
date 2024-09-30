@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://x.com/@mithunr53336850" target="blank"><img src="https://img.shields.io/twitter/follow/mithunr53336850?logo=twitter&style=for-the-badge" alt="@mithunr53336850" /></a> </p>
+<p align="left"> <a href="https://x.com/@mithunr53336850" target="blank"><img src="https://img.shields.io/twitter/follow/mithunr53336850?logo=twitter&style=for-the-badge" alt="@mithunr53336850" /></a></p>
 
 - 🌱 I’m currently learning **SpringBoot,Angular**
 
